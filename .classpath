@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/pdfbox-app-1.6.0.jar" sourcepath="/Users/shubhambansal/Downloads/pdfbox-1.6.0"/>
+	<classpathentry kind="lib" path="lib/lucene-core-3.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/pdfbox-lucene-1.6.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
