@@ -17,8 +17,6 @@ import com.pdfparser.main.model.Claim;
 import com.pdfparser.main.model.Procedure;
 import com.pdfparser.main.model.ServiceInformation;
 
-
-
 public class ParsingController {
 
 	private static final String SERVICE_DATE_TOKEN = "Service Date";

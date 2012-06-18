@@ -52,6 +52,7 @@ public class Procedure {
 	@Override
 	public String toString() {
 		StringBuilder builder = new StringBuilder();
+		builder.append("\n");
 		builder.append("Procedure Name : ");
 		builder.append(name);
 		builder.append(", Service Date : ");
